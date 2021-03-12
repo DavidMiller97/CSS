@@ -1,4 +1,4 @@
-[class^=col]{
+[class^=col]{/*Cuando se encuentre una class que tenga col va a aplicarle el estilo*/
 /*.col{*/
     float:left;
     height:auto;

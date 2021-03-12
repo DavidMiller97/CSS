@@ -31,7 +31,7 @@
  /*-ms-transform: skew(20deg, 10deg);
     -webkit-transform: skew(20deg, 10deg); 
     transform: skew(30deg, 30deg);*/
-        -ms-transform: matrix(1, -0.3, 0, 1, 0, 0); 
+        -ms-transform: matrix(1, -0.3, 0, 1, 0, 0); /*Perfila las puntas de un elemento, las mueve*/
     -webkit-transform: matrix(1, -0.3, 0, 1, 0, 0); 
     transform: matrix(2, -0.3, 2, 1, 0, 0);
 }
